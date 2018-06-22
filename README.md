@@ -6,7 +6,7 @@ This repository contains the code used for our ICWSM paper:
   
 The script `convert.py` pre-process the orginal dataset and `main.py` is used to train the model.
 
-Edit: I noted that the dataset is not hosted anymore. Feel free to [contact me](https://jrappaz.com) for a copy of it !
+Edit: I noticed that the dataset is not hosted anymore. Feel free to [contact me](https://jrappaz.com) for a copy of it !
 
 
 
